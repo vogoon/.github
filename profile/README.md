@@ -6,19 +6,9 @@
 
 <h2>Our Services</h2>
 <p>We analyze your business requirements and provide digital marketing and web application solutions for your business that is specially crafted for you.</p>
-- Web DesignWeb Design
-- UI/UX Designing
-- Digital Marketing
-- Graphic Designing
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<ul>
+  <li>Web DesignWeb Design</li>
+  <li>UI/UX Designing</li>
+  <li>Digital Marketing</li>
+  <li>Graphic Designing</li>
+</ul>
