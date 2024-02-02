@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- Power Up Your Business Grow fast, Stand out from the competition.
+- In this modern era combining your business with digital technologies is a must if you want to grow every day and break out from the traditional business model, We provide a variety of solutions to accomplish that task.
 <!--
 
 **Here are some ideas to get you started:**
