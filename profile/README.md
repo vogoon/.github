@@ -1,4 +1,4 @@
-<p>Power Up Your Business Grow fast, Stand out from the competition.</p>
+<h2>Power Up Your Business Grow fast, Stand out from the competition.</h2>
 <p>In this modern era combining your business with digital technologies is a must if you want to grow every day and break out from the traditional business model, We provide a variety of solutions to accomplish that task.</p>
 <!--
 
